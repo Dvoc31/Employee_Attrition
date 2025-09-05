@@ -10,7 +10,7 @@ The dataset `employee_data.csv` contains employee information such as:
   - Attrition status (Yes/No)  
 
 
-- Technologies Used
-- **Python** – Programming language for data analysis  
-- **Pandas** – Data manipulation, cleaning, and exploration  
-- **Matplotlib** – Visualizing data using pie charts, bar charts, and histograms
+- Technologies Used: 
+  - **Python** – Programming language for data analysis  
+  - **Pandas** – Data manipulation, cleaning, and exploration  
+  - **Matplotlib** – Visualizing data using pie charts, bar charts, and histograms
