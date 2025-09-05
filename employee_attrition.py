@@ -45,4 +45,6 @@ plt.xlabel('Years at Company')
 plt.ylabel('Number of Employees')
 plt.legend()
 plt.show()
+
 print("\n--- Analysis Completed ---")
+
