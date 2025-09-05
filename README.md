@@ -4,10 +4,10 @@ A Python-based Exploratory Data Analysis (EDA) project on Employee Attrition. Th
 <br>
 - Dataset <br>
 The dataset `employee_data.csv` contains employee information such as:  
-- Age  
-- Department  
-- Years at Company  
-- Attrition status (Yes/No)  
+  - Age  
+  - Department  
+  - Years at Company  
+  - Attrition status (Yes/No)  
 
 
 - Technologies Used
